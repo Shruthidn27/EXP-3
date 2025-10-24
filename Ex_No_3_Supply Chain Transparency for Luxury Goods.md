@@ -1,3 +1,4 @@
+# Ex_No_3_Supply Chain Transparency for Luxury Goods
 # Aim:
 To develop a smart contract that tracks the supply chain of luxury goods, ensuring authenticity.
 # Algorithm:
@@ -63,6 +64,9 @@ Helps prevent counterfeit luxury goods.
 
 
 Teaches real-world supply chain use cases.
+# Output:
+<img width="1919" height="820" alt="image" src="https://github.com/user-attachments/assets/14ff1775-6d8e-45cd-8f77-f939b45eb117" />
+
 
 # RESULT : 
-
+thus the code is complied and output verified.
